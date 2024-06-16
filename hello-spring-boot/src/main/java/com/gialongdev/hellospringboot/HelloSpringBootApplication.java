@@ -12,6 +12,8 @@ public class HelloSpringBootApplication {
 		System.out.println("STV CHAMPION");
 		System.out.println("I LOVE LIVERPOOL");
 		System.out.println("MOHAMMED SALAH");
+		System.out.println("GERMANY CHAMPION EURO 2024");
+		System.out.println("MVP FOR TONI KROSS 8");
 	}
 
 }
