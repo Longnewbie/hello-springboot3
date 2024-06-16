@@ -10,6 +10,8 @@ public class HelloSpringBootApplication {
 		SpringApplication.run(HelloSpringBootApplication.class, args);
 		System.out.println("hello spring boot333");
 		System.out.println("STV CHAMPION");
+		System.out.println("I LOVE LIVERPOOL");
+		System.out.println("MOHAMMED SALAH");
 	}
 
 }
